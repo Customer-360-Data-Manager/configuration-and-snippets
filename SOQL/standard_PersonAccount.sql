@@ -1,0 +1,34 @@
+SELECT Id
+     , Salutation
+     , FirstName
+     , LastName
+     , PersonEmail 
+     , Phone
+     , PersonMobilePhone
+     , PersonHomePhone
+     , PersonOtherPhone
+     , Fax
+     , PersonMailingStreet
+     , PersonMailingCity
+     , PersonMailingState
+     , PersonMailingPostalCode
+     , PersonMailingCountry
+     , PersonOtherStreet
+     , PersonOtherCity
+     , PersonOtherState
+     , PersonOtherPostalCode
+     , PersonOtherCountry
+     , BillingStreet
+     , BillingCity
+     , BillingState
+     , BillingPostalCode
+     , BillingCountry
+     , ShippingStreet
+     , ShippingCity
+     , ShippingState
+     , ShippingPostalCode
+     , ShippingCountry
+     , CreatedDate
+     , LastModifiedDate
+ FROM Account
+WHERE isPersonAccount = true

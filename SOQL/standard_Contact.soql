@@ -1,0 +1,24 @@
+SELECT Id
+     , Salutation
+     , LastName
+     , FirstName
+     , Email
+     , Phone
+     , MobilePhone
+     , HomePhone
+     , OtherPhone
+     , Fax
+     , MailingStreet
+     , MailingCity
+     , MailingState
+     , MailingPostalCode
+     , MailingCountry
+     , OtherStreet
+     , OtherCity
+     , OtherState
+     , OtherPostalCode
+     , OtherCountry
+     , Birthdate
+     , CreatedDate
+     , LastModifiedDate 
+  FROM Contact

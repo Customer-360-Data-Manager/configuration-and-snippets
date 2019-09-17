@@ -1,0 +1,15 @@
+SELECT Id
+     , Salutation
+     , LastName
+     , FirstName
+     , Email 
+     , Phone
+     , Street
+     , City
+     , State
+     , PostalCode
+     , Country
+     , CreatedDate
+     , LastModifiedDate 
+  FROM Lead 
+ WHERE isConverted = false
