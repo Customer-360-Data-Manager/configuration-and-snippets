@@ -1,0 +1,9 @@
+build/
+temp/
+out/
+.gradle/
+buildlog.*
+*~
+*.log
+*.DS_Store
+
