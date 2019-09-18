@@ -1,0 +1,23 @@
+{
+  "_v":"15.4",
+  "clients":
+  [
+    {
+      "client_id":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "resources": [
+        {
+          "resource_id":"/products/*",
+          "methods":["get"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
+        },
+        {
+          "resource_id":"/product_search",
+          "methods":["post"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_v":"15.4",
+  "clients":
+  [
+    {
+      "client_id":"0815c90-ffc1-4ea4-9613-f5b375b7dxyz",
+      "resources": [
+        {
+          "resource_id":"/baskets",
+          "methods":["post"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
+        },
+        {
+          "resource_id":"/baskets/*",
+          "methods":["get","patch","delete"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
+        },
+        {
+          "resource_id":"/baskets/*/billing_address",
+          "methods":["put"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
+        },
+        {
+          "resource_id":"/order_search",
+          "methods":["post"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
+        }
+      ]
+    }
+  ]
+}

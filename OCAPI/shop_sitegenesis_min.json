@@ -1,0 +1,17 @@
+{
+  "_v":"15.4",
+  "clients":
+  [
+    {
+      "client_id":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "resources": [
+        {
+          "resource_id":"/order_search",
+          "methods":["post"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
+        }
+      ]
+    }
+  ]
+}
