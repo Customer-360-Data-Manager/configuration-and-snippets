@@ -1,0 +1,6 @@
+id,firstname,middlename,lastname,email,phone,address1,city,zip,state,country,create_ts,update_ts,partyid
+0022000001HW0gJAAT,Jennifer,J,Aniston,jennifer.aniston@gmail.com,763 658 5241,6834 Hollywood Blvd,Los Angeles,90028,CA,US,2012-11-02T05:57:00.000Z,2016-09-20T17:56:00.000Z,50001
+0022000001HWBC8AAP,Jennifer,,Aniston,jennifer.aniston@gmail.com,(910)- 551- 2151,Lincoln Center Plaza,New York,10023,NY,US,2007-04-17T22:50:00.000Z,2017-03-10T14:29:00.000Z,
+0022000001NsM9CAAV,Jenny,Johnson,Aniston,jenny.hobby@yahoo.com,763 658 5241,,,,,,2011-05-19T21:40:00.000Z,2017-11-07T00:33:00.000Z,
+0022000001NsM9CABC,Jennifer,Johnson,Aniston,jen.bills@comcast.com,(600)- 812 1234,6834 Hollywood Blvd,Los Angeles,90028,CA,US,2007-04-17T22:50:00.000Z,2017-03-10T14:29:00.000Z,
+0022000001NsM9JHKS,Jen,Johnson,Aniston-Willson,jennny.a@gmail.com,(888)- 861- 7611,,,,,,2007-04-19T22:50:00.000Z,2019-03-10T14:29:00.000Z,50001
