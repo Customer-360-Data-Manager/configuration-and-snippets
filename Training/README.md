@@ -1,6 +1,6 @@
 Wellcome to C360 Data Manager Training files! 
 
-== Slides == <br>
+<b> Slides == </b><br>
 C360 Enablement Hands-On Slides-Chicago_prt1.pptx	<br>
 C360 Enablement Hands-On Slides-Chicago_prt2.pptx	<br>
 
