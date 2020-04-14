@@ -3,7 +3,7 @@
   "clients":
   [
     {
-      "client_id":"0815c90-ffc1-4ea4-9613-f5b375b7dxyz",
+      "client_id":"XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
       "resources": [
         {
           "resource_id":"/sites/*",
