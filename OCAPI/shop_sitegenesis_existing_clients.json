@@ -28,6 +28,12 @@
           "methods":["post"],
           "read_attributes":"(**)",
           "write_attributes":"(**)"
+        },
+        {
+          "resource_id":"/customer/*",
+          "methods":["get"],
+          "read_attributes":"(**)",
+          "write_attributes":"(**)"
         }
       ]
     }
