@@ -22,7 +22,11 @@
           "methods":["put"],
           "read_attributes":"(**)",
           "write_attributes":"(**)"
-        },
+        }
+      ]
+    }, {
+      "client_id":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "resources": [
         {
           "resource_id":"/order_search",
           "methods":["post"],
@@ -30,7 +34,7 @@
           "write_attributes":"(**)"
         },
         {
-          "resource_id":"/customer/*",
+          "resource_id":"/customers/*",
           "methods":["get"],
           "read_attributes":"(**)",
           "write_attributes":"(**)"
